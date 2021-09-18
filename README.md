@@ -7,5 +7,7 @@ Usage of components (Header, Loader, Menu, Router, etc),
 helpers (api data, ajax), and just couple of assets (images, icons).
 and a little bit of CSS.
 
+In the searchbar u can only search about CSS-TRICKS
+
 
 https://facuariasla.github.io/vanillaJS-SPA-one/spa/
