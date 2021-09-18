@@ -8,4 +8,4 @@ helpers (api data, ajax), and just couple of assets (images, icons).
 and a little bit of CSS.
 
 
-vanillaJS-SPA-one/spa
+https://facuariasla.github.io/vanillaJS-SPA-one/spa/
